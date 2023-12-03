@@ -1,9 +1,10 @@
 <?php
+$pageTitle = "Home";
 include "view-header.php";
 ?>
-<h1>Hello World!</h1>
-    <?php
-    include "view-footer.php";
-    ?>
+<h1>Home</h1>
+<?php
+include "view-footer.php";
+?>
 
 
