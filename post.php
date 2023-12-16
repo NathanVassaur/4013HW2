@@ -7,7 +7,7 @@ include "view-header.php";
     <input type="text" name="my-name">
     <input type="submit" value="Post data">
 </form>
-
+<?php
 include "view-footer.php";
 ?>
 
